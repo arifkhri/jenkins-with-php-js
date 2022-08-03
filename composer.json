@@ -1,0 +1,17 @@
+{
+    "name": "clod/log_jenkins",
+    "require": {
+        "php-curl-class/php-curl-class": "^9.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Clod\\LogJenkin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "clodTest",
+            "email": "clod@test.com"
+        }
+    ]
+}
