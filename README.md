@@ -1,4 +1,4 @@
-# php-jenkins-log 
+Jenkins Log
 
 Web app to showing a log from jenkins using php & php-curl-class, auto deploy with paramiko using python3
 
